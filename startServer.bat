@@ -1,4 +1,4 @@
 @echo off
-cd /d "C:\"
+cd /d "C:\Downloads\"
 npm start
 pause

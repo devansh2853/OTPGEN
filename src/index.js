@@ -1,7 +1,7 @@
 const accounts = [
-    { name: 'Zerodha Deepak', secret: 'JBSWY3DPEHPK3PXP' },
-    { name: 'Zerodha Devansh', secret: 'KRSXG5DFNFZSAYJA' },
-    { name: 'Angel One', secret: 'IFXWYZB4J5D7O43K' }
+    { name: 'Z Deepak', secret: 'JBSWY3DPEHPK3PXP' },
+    { name: 'Z Devansh', secret: 'KRSXG5DFNFZSAYJA' },
+    { name: 'A One', secret: 'IFXWYZB4J5D7O43K' }
 ];
 
 function generateTOTP(secret) {
